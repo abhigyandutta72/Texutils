@@ -1,4 +1,4 @@
-This was a try making a react app 
+This was a try making a react app with the help of https://github.com/CodeWithHarry
 ## Available Scripts
 
 In the project directory, you can run:
